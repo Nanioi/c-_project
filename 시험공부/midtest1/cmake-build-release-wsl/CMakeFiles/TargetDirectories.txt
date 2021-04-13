@@ -1,0 +1,3 @@
+/Users/nayeon/Desktop/midtest1/cmake-build-release-wsl/CMakeFiles/rebuild_cache.dir
+/Users/nayeon/Desktop/midtest1/cmake-build-release-wsl/CMakeFiles/edit_cache.dir
+/Users/nayeon/Desktop/midtest1/cmake-build-release-wsl/CMakeFiles/midtest1.dir

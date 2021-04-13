@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nayeon/Desktop/Ploblem1/input.cpp
+input.h
+/Users/nayeon/Desktop/Ploblem1/input.h
+
+/Users/nayeon/Desktop/Ploblem1/input.h
+iostream
+-
+
+/Users/nayeon/Desktop/Ploblem1/main.cpp
+iostream
+-
+input.h
+/Users/nayeon/Desktop/Ploblem1/input.h
+
