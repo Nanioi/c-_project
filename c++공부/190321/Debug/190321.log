@@ -1,0 +1,39 @@
+﻿빌드 시작: 2019-04-09 오전 9:56:02
+     1>2 노드의 "C:\Users\Hyung Jun\Desktop\190321\190321\190321.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\190321.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Complex.cpp ComplexExam.cpp
+         ComplexExam.cpp
+     1>c:\users\hyung jun\desktop\190321\190321\complexexam.cpp(9): error C2248: 'Complex::real' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(8) : 'Complex::real' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+     1>c:\users\hyung jun\desktop\190321\190321\complexexam.cpp(9): error C2248: 'Complex::real' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(8) : 'Complex::real' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+     1>c:\users\hyung jun\desktop\190321\190321\complexexam.cpp(9): error C2248: 'Complex::real' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(8) : 'Complex::real' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+     1>c:\users\hyung jun\desktop\190321\190321\complexexam.cpp(10): error C2248: 'Complex::image' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(9) : 'Complex::image' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+     1>c:\users\hyung jun\desktop\190321\190321\complexexam.cpp(10): error C2248: 'Complex::image' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(9) : 'Complex::image' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+     1>c:\users\hyung jun\desktop\190321\190321\complexexam.cpp(10): error C2248: 'Complex::image' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(9) : 'Complex::image' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+         Complex.cpp
+     1>c:\users\hyung jun\desktop\190321\190321\complex.cpp(50): error C2270: '+' : 비멤버 함수에 한정자를 사용할 수 없습니다.
+     1>c:\users\hyung jun\desktop\190321\190321\complex.cpp(53): error C2248: 'Complex::real' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(8) : 'Complex::real' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+     1>c:\users\hyung jun\desktop\190321\190321\complex.cpp(53): error C2248: 'Complex::real' : private 멤버('Complex' 클래스에서 선언)에 액세스할 수 없습니다.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(8) : 'Complex::real' 선언을 참조하십시오.
+                 c:\users\hyung jun\desktop\190321\190321\complex.h(5) : 'Complex' 선언을 참조하십시오.
+         코드를 생성하고 있습니다...
+     1>"C:\Users\Hyung Jun\Desktop\190321\190321\190321.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.45
