@@ -1,0 +1,4 @@
+﻿  Test.cpp
+c:\users\user\source\repos\c++ 기말공부연습\c++ 기말공부연습\test.cpp(9): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+Test.obj : error LNK2019: "public: __thiscall Calc<int,int>::Calc<int,int>(int,int)" (??0?$Calc@HH@@QAE@HH@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+c:\users\user\source\repos\c++ 기말공부연습\Debug\c++ 기말공부연습.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

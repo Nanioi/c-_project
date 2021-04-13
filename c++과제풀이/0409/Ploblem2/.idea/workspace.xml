@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Ploblem2" targetName="Ploblem2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Release-WSL" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d72bab2b-4d91-4d0d-a1e2-2c89d46facf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release-WSL" />
+  <component name="ProjectId" id="1a40uDNaqyhxBFlkCN0rUvD7N69" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ploblem2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ploblem2" TARGET_NAME="Ploblem2" CONFIG_NAME="Release-WSL" RUN_TARGET_PROJECT_NAME="Ploblem2" RUN_TARGET_NAME="Ploblem2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="35" BundledDictionary0="@types.dic" BundledDictionary1="lodash.dic" BundledDictionary2="eslint-config-airbnb.dic" BundledDictionary3="pythonExtras.dic" BundledDictionary4="jetbrains.dic" BundledDictionary5="firebase.dic" BundledDictionary6="english.dic" BundledDictionary7="vuex.dic" BundledDictionary8="django.dic" BundledDictionary9="eslint.dic" BundledDictionary10="redux.dic" BundledDictionary11="less.dic" BundledDictionary12="core-js.dic" BundledDictionary13="doxygen.dic" BundledDictionary14="express.dic" BundledDictionary15="prettier.dic" BundledDictionary16="angular.dic" BundledDictionary17="rxjs.dic" BundledDictionary18="vuetify.dic" BundledDictionary19="css.dic" BundledDictionary20="request.dic" BundledDictionary21="zone.js.dic" BundledDictionary22="@angular.dic" BundledDictionary23="async.dic" BundledDictionary24="objc.dic" BundledDictionary25="bluebird.dic" BundledDictionary26="cmake.dic" BundledDictionary27="_javascript.dic" BundledDictionary28="cloudfront.dic" BundledDictionary29="python.dic" BundledDictionary30="graphql.dic" BundledDictionary31="javascript.dic" BundledDictionary32="heroku.dic" BundledDictionary33="vue.dic" BundledDictionary34="debug.dic" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72bab2b-4d91-4d0d-a1e2-2c89d46facf7" name="Default Changelist" comment="" />
+      <created>1585979779143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585979779143</updated>
+      <workItem from="1585979785018" duration="2147000" />
+      <workItem from="1586155100911" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="582" height="192" key="GridCell.Tab.0.bottom" timestamp="1586155340925">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="673" height="21" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585981938085" />
+    <state width="582" height="192" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586155340925" />
+    <state width="582" height="192" key="GridCell.Tab.0.center" timestamp="1586155340924">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="673" height="21" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585981938083" />
+    <state width="582" height="192" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1586155340924" />
+    <state width="582" height="192" key="GridCell.Tab.0.left" timestamp="1586155340923">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="673" height="21" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585981938082" />
+    <state width="582" height="192" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1586155340923" />
+    <state width="582" height="192" key="GridCell.Tab.0.right" timestamp="1586155340924">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="673" height="21" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585981938084" />
+    <state width="582" height="192" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586155340924" />
+    <state x="739" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586155100688">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="739" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1586155100688" />
+    <state x="844" y="62" key="refactoring.ChangeSignatureDialog" timestamp="1585981784121">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="844" y="62" key="refactoring.ChangeSignatureDialog/0.23.1440.797@0.23.1440.797" timestamp="1585981784121" />
+  </component>
+</project>

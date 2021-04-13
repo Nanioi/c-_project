@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nayeon/Desktop/midtest1/Rational.cpp
+iostream
+-
+Rational.h
+/Users/nayeon/Desktop/midtest1/Rational.h
+
+/Users/nayeon/Desktop/midtest1/Rational.h
+iostream
+-
+
+/Users/nayeon/Desktop/midtest1/main.cpp
+iostream
+-
+Rational.h
+/Users/nayeon/Desktop/midtest1/Rational.h
+
